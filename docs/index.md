@@ -1,3 +1,3 @@
 # Getting Started
 
-- [Week 0](/week-0)
+- [Week 0](/week-0.html)
