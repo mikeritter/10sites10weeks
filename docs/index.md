@@ -10,6 +10,7 @@ The key objective is to master your process and toolset while building ten minim
 
 - [WEEK ZERO](week-0.md): Prep
 - [WEEK ONE](week-1.md): Portfolio
+- WEEK TWO: Blog
 - WEEK THREE: Landing Page
 - WEEK FOUR: Five-page Organization Site
 - WEEK FIVE: Fan Page
