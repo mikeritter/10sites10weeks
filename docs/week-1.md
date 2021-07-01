@@ -62,3 +62,16 @@ We _loop_ through the "Projects" collection. For every "project" in "Projects" t
 ### STYLE
 
 A sense of style is important to good web design. Without it, websites look haphazard. When you follow some form of design your website stands out for good reasons and visitors feel better viewing it.
+
+## TIPS
+
+1. You'll be placing links to your projects here as you work along.
+2. Remember: this is a __minimally-viable product__. Don't get bogged down in tweaking the style and components. You'll have opportunities to do that as you work through these ten weeks.
+3. Work out your process and tools on this starter project [see WEEK ZERO](week-0.md)
+4. Start with a brainstorm of ow YOUR portfolio should look, sound, and feel.
+
+## LOOKING AHEAD
+
+Refer to your project management system to work through issues like bugs and feature requests. Get used to filing these so you can demonstrate your experience, have a record of your steps, and practice incremental enhancements and version control.
+
+As you run into hiccups, note them so you can avoid them on future projects.
