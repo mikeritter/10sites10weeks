@@ -8,7 +8,9 @@ The ten-week challenge is flexible enough to adapt to anyone in the field.
 
 The key objective is to master your process and toolset while building ten minimally-viable products to form the groundwork for your future projects.
 
-The following outline is my project timeline designed to build upon each other incrementally and end up with an integrated business-building system that establishes my credibility and results in business.
+[The Complete Freelancing Bundle](https://studywebdevelopment.com/freelancing.html) lays out an __excellent__ set of essential projects to build. Feel free to follow Kyle's roadmap to get started with some revenue generators.
+
+The following outline is my roadmap designed for projects to build upon each other incrementally and end up with an integrated business-building system that establishes my credibility, produces fresh content featuring my work, and results in business.
 
 ## OUTLINE
 
