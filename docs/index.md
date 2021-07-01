@@ -2,9 +2,13 @@
 
 This is a challenge to kickstart your freelance business or job search in web design and development.
 
-It's flexible enough to adapt to anyone in the field.
+It is inspired by [The Complete Freelancing Bundle](https://studywebdevelopment.com/freelancing.html) and [Free Code Camp](https://www.freecodecamp.org/). I highly recommend both resources to starting freelance web developers, web designers and online marketing consultants.
+
+The ten-week challenge is flexible enough to adapt to anyone in the field.
 
 The key objective is to master your process and toolset while building ten minimally-viable products to form the groundwork for your future projects.
+
+The following outline is my project timeline designed to build upon each other incrementally and end up with an integrated business-building system that establishes my credibility and results in business.
 
 ## OUTLINE
 
