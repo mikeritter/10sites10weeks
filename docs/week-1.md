@@ -46,13 +46,13 @@ Projects:
     description: "show off by talking about why you built the site andtechnologies you used"
     url: "https://link-to-this-project"
 ---
-{% for project in Projects %}
+{ for project in Projects }
 <section>
-<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
-<img src="{{ project.image }}">
-<p>{{ project.description }}</p>
+<h1><a href="{ project.url }">{ project.title }</a></h1>
+<img src="{ project.image }">
+<p>{ project.description }</p>
 </section>
-{% endfor %}
+{ endfor }
 ```
 
 The "Projects" collection contains two projects.
