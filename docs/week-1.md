@@ -34,7 +34,7 @@ When you build a portfolio you practice fundamentals of working with collections
 
 Mentioned above, templates are reusable sections of code that contain placeholders for details from a collection. Consider the following:
 
-``` liquid
+```
 ---
 Projects:
   - title: "My Portfolio"
