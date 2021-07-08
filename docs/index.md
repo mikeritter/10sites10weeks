@@ -16,7 +16,7 @@ The following outline is my roadmap designed for projects to build upon each oth
 
 - [WEEK ZERO](week-0.md): Prep
 - [WEEK ONE](week-1.md): Portfolio
-- WEEK TWO: Blog
+- [WEEK TWO](week-2.md): Blog
 - WEEK THREE: Landing Page
 - WEEK FOUR: Five-page Organization Site
 - WEEK FIVE: Fan Page
