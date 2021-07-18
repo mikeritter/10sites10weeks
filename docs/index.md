@@ -17,11 +17,11 @@ The following outline is my roadmap designed for projects to build upon each oth
 - [WEEK ZERO](week-0.md): Prep
 - [WEEK ONE](week-1.md): Portfolio
 - [WEEK TWO](week-2.md): Blog
-- WEEK THREE: Landing Page
+- [WEEK THREE](week-3.md): Landing Page
 - WEEK FOUR: Five-page Organization Site
 - WEEK FIVE: Fan Page
 - WEEK SIX: Pasion Project / Cause Site
-- WEEK SEVEN: My Collections on Unsplash
+- WEEK SEVEN: My Collections
 - WEEK EIGHT: Subscription Builder
 - WEEK NINE: Request for Proposal
 - WEEK TEN: E-commerce Site
