@@ -1,4 +1,4 @@
-# WEEK ONE
+# WEEK THREE
 
 ## OBJECTIVE: Build a landing page
 
