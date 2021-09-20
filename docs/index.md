@@ -20,8 +20,8 @@ The following outline is my roadmap designed for projects to build upon each oth
 - [WEEK THREE](week-3.md): Landing Page
 - [WEEK FOUR](week-4.md): Five-page Organization Site
 - [WEEK FIVE](week-5.md): Fan Page
-- WEEK SIX: Pasion Project / Cause Site
-- WEEK SEVEN: My Collections
-- WEEK EIGHT: Subscription Builder
-- WEEK NINE: Request for Proposal
-- WEEK TEN: E-commerce Site
+- [WEEK SIX](week-6.md): Pasion Project / Cause Site
+- [WEEK SEVEN](week-7.md): My Collections
+- [WEEK EIGHT](week-8.md): Subscription Builder
+- [WEEK NINE](week-9.md): Request for Proposal
+- [WEEK TEN](week-10.md): E-commerce Site
